@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vipulgiakwad07.github.io/csb-frstu/static/css/main.6f252ddf.chunk.css",
+    "main.js": "https://vipulgiakwad07.github.io/csb-frstu/static/js/main.215f641d.chunk.js",
+    "main.js.map": "https://vipulgiakwad07.github.io/csb-frstu/static/js/main.215f641d.chunk.js.map",
+    "runtime-main.js": "https://vipulgiakwad07.github.io/csb-frstu/static/js/runtime-main.324cab6c.js",
+    "runtime-main.js.map": "https://vipulgiakwad07.github.io/csb-frstu/static/js/runtime-main.324cab6c.js.map",
+    "static/js/2.338c7113.chunk.js": "https://vipulgiakwad07.github.io/csb-frstu/static/js/2.338c7113.chunk.js",
+    "static/js/2.338c7113.chunk.js.map": "https://vipulgiakwad07.github.io/csb-frstu/static/js/2.338c7113.chunk.js.map",
+    "index.html": "https://vipulgiakwad07.github.io/csb-frstu/index.html",
+    "static/css/main.6f252ddf.chunk.css.map": "https://vipulgiakwad07.github.io/csb-frstu/static/css/main.6f252ddf.chunk.css.map",
+    "static/js/2.338c7113.chunk.js.LICENSE.txt": "https://vipulgiakwad07.github.io/csb-frstu/static/js/2.338c7113.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.324cab6c.js",
+    "static/js/2.338c7113.chunk.js",
+    "static/css/main.6f252ddf.chunk.css",
+    "static/js/main.215f641d.chunk.js"
+  ]
+}
